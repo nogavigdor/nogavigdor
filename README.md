@@ -9,15 +9,11 @@ I'm Noga and I love to code. I am familiar with various coding languages and fra
  [![Linkedin Badge](https://img.shields.io/badge/-Noga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noga-vigdor/)  [![Mail Badge](https://img.shields.io/badge/-noga.vigdor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noga.vigdor@gmail.com)
 
 
-<!-- TODO: Add last video link -->
-
 ### What I currently Do
 
 - 🔭 I’m studing web development at EASV
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 You can reach me at: noga.vigdor@gmail.com
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: Enjoy watching crime documentaries and travel to new places.
 
 #### Top Technologies
